@@ -1,0 +1,1 @@
+provides: sharding-jdbc-core, mybatis-spring-boot-starter, druid, commons-dbcp2
